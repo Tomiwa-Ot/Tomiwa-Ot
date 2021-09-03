@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-- System/Sever Administration
+- System/Server Administration
 - Android Development
 - Web Development
 
