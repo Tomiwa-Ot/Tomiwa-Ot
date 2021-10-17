@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black)
-![php](https://img.shields.io/badge/Php-CBC3E3?style=for-the-badge&logo=php&logoColor=white)
+![php](https://img.shields.io/badge/Php-8993BE?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter%0A(Android)-0096FF?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## Training
