@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ## Skills
 - System/Server Administration
-- Android Development
-- Web Development
+- Android & Web Development
+- IT Security
 
 ## Proficiency
 
