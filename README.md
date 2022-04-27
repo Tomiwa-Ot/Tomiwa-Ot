@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 **Hackerone**: [@tomiwa-ot](https://hackerone.com/tomiwa-ot)
 
-## Proficiency
+### Proficiency
 - System/Server Administration
 - Android & Web Development
 - IT Security
 <!--
-## Stack
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![php](https://img.shields.io/badge/Php-8993BE?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0096FF?style=for-the-badge&logo=flutter&logoColor=white)
 -->
-## Training
+### Training
 
 - Comptia **A+**
 - Comptia **Network+**
