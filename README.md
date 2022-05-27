@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 -->
 ### Training
 
-- Comptia **A+**
-- Comptia **Network+**
+- Comptia **A+**, **Network+**, **Security+**
