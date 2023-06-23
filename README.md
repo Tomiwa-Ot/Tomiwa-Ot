@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Flask](https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black)
 -->
-**Hackerone**: [@tomiwa-ot](https://hackerone.com/tomiwa-ot)
+<!-- **Hackerone**: [@tomiwa-ot](https://hackerone.com/tomiwa-ot)-->
 
 ### Proficiency
 - System/Server Administration
