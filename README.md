@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Proficiency
 - System/Server Administration
-- Android & Web Development
+- Android Development
 - IT Security
 <!--
 ### Stack
